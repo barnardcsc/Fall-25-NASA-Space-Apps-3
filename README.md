@@ -25,24 +25,16 @@ Workshop Materials
 This repository contains the following materials:
 
 ```bash
-├── app
-│   ├── css
-│   │   ├── **/*.css
-│   ├── favicon.ico
-│   ├── images
-│   ├── index.html
-│   ├── js
-│   │   ├── **/*.js
-│   └── partials/template
-├── dist (or build)
-├── node_modules
-├── bower_components (if using bower)
-├── test
-├── Gruntfile.js/gulpfile.js
-├── README.md
-├── package.json
-├── bower.json (if using bower)
-└── .
+├── Dataset             # datasets
+│   ├── 2022_Tcns.csv
+│   ├── 2022_weather.csv
+│   ├── 2023_NLDAS.csv
+│   ├── 2023_Tcns.csv
+│   ├── 2023_weather.csv
+│   └── NLDAS_solar_weather_2023_Tcns.csv
+└── Tutorials            # jupyter notebooks
+    ├── 1_NLDAS_download.ipynb
+    └── 2_RNN_RF_model.ipynb
 ```
 
 If you have any questions or issues accessing files in the repository, please email csc@barnard.edu. If you have any questions about the workshop, please email the instructor.
