@@ -23,8 +23,7 @@ Installation/Pre-workshop Instructions
 5. **Enable required APIs:** A window should pop-up, titled “Enable required APIs” → click “Enable”
 6. **Initialize Earth Engine in your notebook:** in the code `ee.Initialize(project = "your-project")`, replace `your-project` with the project id you created in step 1
 
-#### Open Notebooks on Google Colab
-Open the notebooks on [Google Colab](https://colab.research.google.com/)
+#### Open the notebooks on [Google Colab](https://colab.research.google.com/)
 1. Go to File > Open notebook.
 2. Select Github.
 3. Paste the repo url: `https://github.com/barnardcsc/Fall-25-NASA-Space-Apps-3`
