@@ -14,7 +14,7 @@ Participants will be introduced to different types of datasets commonly used in 
 
 Installation/Pre-workshop Instructions
 ---------------
-### Initialize Google Earth Engine on your account
+#### Initialize Google Earth Engine on your account
 1. **Create your Google cloud project:** If you haven’t created a project, go to [Google cloud console](https://console.cloud.google.com/projectcreate) and create your project
 2. **Go to the Google Earth Engine [cloud console](**https://console.cloud.google.com/earth-engine/welcome)**
 3. **Register your cloud project** Make sure the project name you created in step 1 is selected. Click “Register your Cloud project” under “Get Started” → 
@@ -22,7 +22,7 @@ Installation/Pre-workshop Instructions
 5. **Enable required APIs:** A window should pop-up, titled “Enable required APIs” → click “Enable”
 6. **Initialize Earth Engine in your notebook:** in the code `ee.Initialize(project = "your-project")`, replace `your-project` with the project id you created in step 1
 
-### Open Notebooks on Google Colab
+#### Open Notebooks on Google Colab
 Open the notebooks on [Google Colab](https://colab.research.google.com/)
 1. Go to File > Open notebook.
 2. Select Github.
@@ -35,6 +35,10 @@ Open the notebooks on [Google Colab](https://colab.research.google.com/)
 	```
 	You will log in to your drive and authenticate. Then, copy the notebook to your drive. You can then use the path `/content/drive/MyDrive/path/filename.csv`
 
+#### Upload folder to Google Drive
+1. Go to the (GEE_Irrigation)[https://github.com/barnardcsc/Fall-25-NASA-Space-Apps-3/tree/main/GEE_Irrigation] folder.
+2. Download the entire folder
+3. Upload to the homepage of your Google Drive, make sure it is named `GEE_Irrigation` (case sensitive)
 Workshop Materials
 ---------------
 This repository contains the following materials:
