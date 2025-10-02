@@ -40,14 +40,14 @@ Then remember to activate the environment [your-env-name] before starting a note
 1. Go to File > Open notebook.
 2. Select Github.
 3. Paste the repo url: *insert url*
-4. Make sure you select workshop as the branch.
-5. Open the notebook you would like to follow.
-6. Make sure the following commands are copied:
-```
-from google.colab import drive
-drive.mount('/content/drive')
-```
-You will log in to your drive and authenticate. Then, copy the notebook to your drive. You can then use the path `/content/drive/MyDrive/path/filename.csv`
+4. Open the notebook(s) you would like to follow.
+5. Make sure the following commands are in the notebook:
+   ```
+   from google.colab import drive
+   drive.mount('/content/drive')
+   ```
+
+   You will log in to your drive and authenticate. Then, copy the notebook to your drive. You can then use the path `/content/drive/MyDrive/path/filename.csv`
 
 Workshop Materials
 ---------------
