@@ -8,6 +8,7 @@ Email: [jd4192@columbia.edu](mailto:jd4192@columbia.edu)
 Workshop Description
 ---------------
 (Repository partially cloned from [jamiemduan4192/Irrigation_AI](https://github.com/jamiemduan4192/Irrigation_AI))
+
 ​Precise irrigation is essential for sustainable agriculture, especially in arid and semi-arid regions. Determining when and how much water to apply is key to improving water use efficiency and supporting crop productivity. In this workshop, we will explore how various factors, including crop type, climate, and soil conditions, affect irrigation decisions, and how environmental monitoring tools can help guide these decisions. 
 
 Participants will be introduced to different types of datasets commonly used in irrigation management, including plant sensor data, weather observations, and remote sensing imagery. We will discuss how machine learning can be used to integrate these diverse data sources and estimate crop water demand. The session will conclude with a hands-on activity to build a simple machine learning model for irrigation support.
@@ -39,6 +40,7 @@ Open the notebooks on [Google Colab](https://colab.research.google.com/)
 1. Go to the (GEE_Irrigation)[https://github.com/barnardcsc/Fall-25-NASA-Space-Apps-3/tree/main/GEE_Irrigation] folder.
 2. Download the entire folder
 3. Upload to the homepage of your Google Drive, make sure it is named `GEE_Irrigation` (case sensitive)
+
 Workshop Materials
 ---------------
 This repository contains the following materials:
