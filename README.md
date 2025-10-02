@@ -16,8 +16,8 @@ Installation/Pre-workshop Instructions
 ---------------
 ### Initialize Google Earth Engine on your account
 1. **Create your Google cloud project:** If you haven’t created a project, go to [Google cloud console](https://console.cloud.google.com/projectcreate) and create your project
-2. **Go to the Google Earth Engine [cloud console](**https://console.cloud.google.com/earth-engine/welcome) 
-3. **Register your cloud project:** Click “Register your Cloud project” under “Get Started” → 
+2. **Go to the Google Earth Engine [cloud console](**https://console.cloud.google.com/earth-engine/welcome)**
+3. **Register your cloud project** Make sure the project name you created in step 1 is selected. Click “Register your Cloud project” under “Get Started” → 
 4. **Register for noncommercial use:** Click “Get Started” under “See if you are eligible for noncommercial use” → answer questions
 5. **Enable required APIs:** A window should pop-up, titled “Enable required APIs” → click “Enable”
 6. **Initialize Earth Engine in your notebook:** in the code `ee.Initialize(project = "your-project")`, replace `your-project` with the project id you created in step 1
