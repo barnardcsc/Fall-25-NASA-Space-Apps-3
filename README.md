@@ -20,6 +20,35 @@ Workshop Description
 ---------------
 *insert content here...*
 
+Installation 
+---------------
+*modify/delete content here...*
+Example:
+**Option 1**: cloning the repository (preferred method)
+Clone this repository
+`git clone [insert git here]`
+
+Note: If you do not know how to use git, you can directly click the code button on this page and then download the zipped directory.
+
+Create a conda environment and jupyter notebook using the following command:
+`conda create -n [your-env-name] python=3.13.5 numpy pandas matplotlib ipykernel jupyterlab`
+
+Then remember to activate the environment [your-env-name] before starting a notebook, for example, with VSCode or jupyter lab.
+`conda activate [your-env-name]`
+
+**Option 2**: using [Google Colab](https://colab.research.google.com/)
+1. Go to File > Open notebook.
+2. Select Github.
+3. Paste the repo url: *insert url*
+4. Make sure you select workshop as the branch.
+5. Open the notebook you would like to follow.
+6. Make sure the following commands are copied:
+```
+from google.colab import drive
+drive.mount('/content/drive')
+```
+You will log in to your drive and authenticate. Then, copy the notebook to your drive. You can then use the path `/content/drive/MyDrive/path/filename.csv`
+
 Workshop Materials
 ---------------
 This repository contains the following materials:
