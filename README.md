@@ -36,8 +36,8 @@ Installation/Pre-workshop Instructions
 	You will log in to your drive and authenticate. Then, copy the notebook to your drive. You can then use the path `/content/drive/MyDrive/path/filename.csv`
 
 #### Upload folder to Google Drive
-1. Go to the (GEE_Irrigation)[https://github.com/barnardcsc/Fall-25-NASA-Space-Apps-3/tree/main/GEE_Irrigation] folder.
-2. Download the entire folder
+1. Go to the [GEE_Irrigation](https://github.com/barnardcsc/Fall-25-NASA-Space-Apps-3/tree/main/GEE_Irrigation) folder.
+2. Download the entire folder, using tools such as [this one](https://download-directory.github.io/)
 3. Upload to the homepage of your Google Drive, make sure it is named `GEE_Irrigation` (case sensitive)
 
 Workshop Materials
